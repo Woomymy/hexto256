@@ -1,7 +1,14 @@
 [package]
 name = "hexto256"
+description = "Convert HEX Colors to Xterm256 colors"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+
+authors = ["Woomymy <github@woomy.ovh>"]
+
+homepage = "https://github.com/Woomymy/hexto256"
+repository = "https://github.com/Woomymy/hexto256"
 
 [profile.release]
 strip = true
